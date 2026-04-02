@@ -3,7 +3,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=7C9EF8&center=true&vCenter=true&width=600&lines=Hi+I'm+Atirah+👋;Data+Scientist+%7C+ML+Engineer;Building+things+that+actually+get+used.)](https://git.io/typing-svg)
 
 **Master of Business Analytics (Distinction) · Sunway University**  
-📍 Klang, Malaysia · Open to data science, AI/ML & analytics roles
+📍 KL, Malaysia · Open to data science, AI/ML & analytics roles
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-linkedin-url)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:atirahamjad2000@gmail.com)
@@ -56,18 +56,32 @@ Unified AI platform combining career forecasting, institutional prediction, and 
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
 ![NLTK](https://img.shields.io/badge/NLTK-3776AB?style=flat-square&logo=python&logoColor=white)
+![TF-IDF](https://img.shields.io/badge/TF--IDF-grey?style=flat-square)
+![VADER](https://img.shields.io/badge/VADER-grey?style=flat-square)
+![RapidFuzz](https://img.shields.io/badge/RapidFuzz-grey?style=flat-square)
 
 **Data & Viz**  
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
 ![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-grey?style=flat-square)
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white)
 
-**Deployment & Tools**  
+**APIs**  
+![REST](https://img.shields.io/badge/REST%20APIs-grey?style=flat-square)
+![Crossref](https://img.shields.io/badge/Crossref%20API-grey?style=flat-square)
+![Semantic Scholar](https://img.shields.io/badge/Semantic%20Scholar%20API-grey?style=flat-square)
+
+**Backend & Deployment**  
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-
----
 
 ## GitHub stats
 
@@ -82,10 +96,10 @@ Unified AI platform combining career forecasting, institutional prediction, and 
 
 ## Background
 
-- MSc Business Analytics, Distinction (CGPA 3.81) — Sunway University (2026)
-- BSc Finance, First Class Honours — INTI International University (2023)
+- Master of Business Analytics, Distinction (CGPA 3.81) — Sunway University (2026)
+- Ba (Hons) Finance, First Class Honours — INTI International University (2023)
 - 2 years Dispute Operations Executive — Finexus International
-- 6 months Research Assistant — Sunway Business School
+- 6 months contract as Research Assistant — Sunway Business School
 
 ---
 
