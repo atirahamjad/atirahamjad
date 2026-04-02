@@ -3,7 +3,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=7C9EF8&center=true&vCenter=true&width=600&lines=Hi+I'm+Atirah+👋;Data+Scientist+%7C+ML+Engineer;Building+things+that+actually+get+used.)](https://git.io/typing-svg)
 
 **Master of Business Analytics (Distinction) · Sunway University**  
-📍 Klang, Malaysia · Open to data science, AI/ML & analytics roles
+📍 KL, Malaysia · Open to data science, AI/ML & analytics roles
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/atirah-amjad-148092223/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:atirahamjad2000@gmail.com)
