@@ -5,7 +5,7 @@
 **Master of Business Analytics (Distinction) · Sunway University**  
 📍 KL, Malaysia · Open to data science, AI/ML & analytics roles
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/atirah-amjad-148092223/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/atirah-amjad/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:atirahamjad2000@gmail.com)
 [![Live Demo](https://img.shields.io/badge/Live%20Demo-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](https://citation-quality-pipeline.streamlit.app)
 
