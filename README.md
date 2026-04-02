@@ -85,12 +85,9 @@ Unified AI platform combining career forecasting, institutional prediction, and 
 
 ## GitHub stats
 
-<div align="center">
+![Atirah's GitHub Stats](https://github-readme-stats.vercel.app/api?username=atirahamjad&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
 
-![Atirah's GitHub Stats](https://github-readme-stats.vercel.app/api?username=atirahamjad&show_icons=true&theme=tokyonight&hide_border=true)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=atirahamjad&layout=compact&theme=tokyonight&hide_border=true)
-
-</div>
 
 ---
 
