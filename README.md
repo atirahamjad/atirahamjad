@@ -3,9 +3,9 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=7C9EF8&center=true&vCenter=true&width=600&lines=Hi+I'm+Atirah+👋;Data+Scientist+%7C+ML+Engineer;Building+things+that+actually+get+used.)](https://git.io/typing-svg)
 
 **Master of Business Analytics (Distinction) · Sunway University**  
-📍 KL, Malaysia · Open to data science, AI/ML & analytics roles
+📍 Klang, Malaysia · Open to data science, AI/ML & analytics roles
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-linkedin-url)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/atirah-amjad-148092223/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:atirahamjad2000@gmail.com)
 [![Live Demo](https://img.shields.io/badge/Live%20Demo-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](https://citation-quality-pipeline.streamlit.app)
 
@@ -83,20 +83,25 @@ Unified AI platform combining career forecasting, institutional prediction, and 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 
-## GitHub stats
-
-![Atirah's GitHub Stats](https://github-readme-stats.vercel.app/api?username=atirahamjad&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=atirahamjad&layout=compact&theme=tokyonight&hide_border=true)
-
 ---
 
 ## Background
 
 - Master of Business Analytics, Distinction (CGPA 3.81) — Sunway University (2026)
-- Ba (Hons) Finance, First Class Honours — INTI International University (2023)
-- 2 years Dispute Operations Executive — Finexus International
-- 6 months contract as Research Assistant — Sunway Business School
+- Bachelor's Degree in Finance, First Class Honours — INTI International University (2023)
+- 2 years as Dispute Operations Executive — Finexus International
+- 6 months as Research Assistant — Sunway Business School
+
+---
+
+## Certifications
+
+- Docker Foundations Professional Certificate — Docker (2026)
+- Deep Learning with TensorFlow — LinkedIn Learning (2026)
+- SQL Essential Training — NASBA (2026)
+- NLP with spaCy — DataCamp (2025)
+- Career Boost with Power BI — Exodus Experts (2025)
+- Best Paper Award — Vignan's FSTR (2025)
 
 ---
 
